@@ -39,5 +39,6 @@ aside.sidebar footer button:hover {
 /* details */
 
 .orphanage-details {
-    
+    display: flex;
+
 }
