@@ -5,7 +5,7 @@
                 src="./public/images/logo-icon.png" 
                 alt="Logomarca da Happy"
             >
-            <h1 style="font-weight: bold; font-size: 22px; font-weight: 700; margin: 10px">Happy Web : Projeto &lt;nlw#3&gt;</h1>
+            <h1 style="font-weight: bold; font-size: 22px; font-weight: 700; margin: 10px">Happy | nlw#3project ;</h1>
         </div>
         <strong>
             Happy - A website to help you find orphanages around you! Inspired by Next
