@@ -16,6 +16,5 @@
         <p>I'll upload more soon!</p>
         <section id="releases" class="releases topic" style="margin-top: 20px">
            
-        </section>
-    </main>
+ 
 </body>
