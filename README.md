@@ -91,7 +91,7 @@ The following tools were used in the construction of the project:
 
 ## License
 
-This project is under the license [MIT](./LICENSE).
+This project is under the license [MIT](./LICENSE.md).
 
 Made with love by Ana Laura 👋🏽 [Get in Touch!](Https://www.instagram.com/llaurabp/)
 
