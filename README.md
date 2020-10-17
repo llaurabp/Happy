@@ -33,7 +33,7 @@ Project developed during ** NLW - Next Level Week ** offered by [Rocketseat](htt
 
 ## Features
 
-- [x] Entities can register on the web platform by sending:
+   - [x] Entities can register on the web platform by sending:
    - [x] images of the orphanage
    - [x] entity name, email and whatsapp
    - [x] and the address so that it can appear on the map
