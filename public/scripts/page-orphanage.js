@@ -17,7 +17,7 @@ const icon = L.icon({
 })
 
 
-L
+    L
     .marker([-3.7413418,-38.5109022], { icon })
     .addTo(map)
     
