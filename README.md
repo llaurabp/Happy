@@ -27,7 +27,7 @@
 ## About
 
 😀 Happy - is a way to connect people and orphanages.
-Project developed during ** NLW - Next Level Week ** offered by [Rocketseat](https://nextlevelweek.com/). NLW is an online experience with lots of practical content, challenges and hacks where the content is available for a week.
+Project developed during **NLW - Next Level Week** offered by [Rocketseat](https://nextlevelweek.com/). NLW is an online experience with lots of practical content, challenges and hacks where the content is available for a week.
 
 ---
 
