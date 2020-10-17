@@ -8,7 +8,7 @@ main {
 }
 
 .map-container {
-    margin-bottom: 0 0 4rem;
+    margin: 0 0 4rem;
 }
 
 .map-container .leaflet-container {
