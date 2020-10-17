@@ -71,9 +71,9 @@ The application layout is available on Figma:
 
 The following tools were used in the construction of the project:
 
-#### **Website**  
+ 
 
-#### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
+#### **Utilitários**
 
 -   Prototype:  **[Figma](https://www.figma.com/)**  →  *[Protótipo (Happy)](https://www.figma.com/file/MkaYjG7YhtJDQH7LICoSTd/Happy-Web-(Copy))*
 -   Maps:  **[Leaflet](https://react-leaflet.js.org/en/)**
