@@ -39,7 +39,7 @@ Project developed during ** NLW - Next Level Week ** offered by [Rocketseat](htt
    - [x] and the address so that it can appear on the map
    - [x] instructions for visitation
 
-   - [x] Users have access to the mobile application, where they can:
+   - [x] Users have access to the mobile application/website, where they can:
    - [x] browse the map to see the registered institutions
    - [x] contact the entity via E-mail or WhatsApp
 
