@@ -71,10 +71,6 @@ The application layout is available on Figma:
 
 The following tools were used in the construction of the project:
 
- 
-
-#### **Utilitários**
-
 -   Prototype:  **[Figma](https://www.figma.com/)**  →  *[Protótipo (Happy)](https://www.figma.com/file/MkaYjG7YhtJDQH7LICoSTd/Happy-Web-(Copy))*
 -   Maps:  **[Leaflet](https://react-leaflet.js.org/en/)**
 -   Editor:  **[Visual Studio Code](https://code.visualstudio.com/)**  → Extensions:  **[TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)** | **[Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)** | **[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)**
