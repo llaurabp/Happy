@@ -19,6 +19,7 @@
 .map-container footer a {
     color: #0089a5;
     text-decoration: none;
+    font-weight: 700;
 }
 
 .map-container .leaflet-container {

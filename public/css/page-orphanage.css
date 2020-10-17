@@ -123,27 +123,3 @@ main {
     border-radius: 20px;
     color: #37c77f;
 }
-
-.primary-button {
-  margin-top: 6.4rem;
-  width: 100%;
-  height: 6.4rem;
-  border: 0;
-  cursor: pointer;
-  background: #3cdc8c;
-  border-radius: 2rem;
-  color: #ffffff;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
-  transition: background-color .2s;
-}
-.primary-button:hover {
-  background: #36cf82;
-}
-
-.primary-button img {
-  margin-right: 1.6rem;
-
-}
