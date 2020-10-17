@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <img alt="Happy" title="#Happy" src="./public/images/logo-icon.png" />
-   😀 <a href="#"> Happy </a>
+    <a href="#"> Happy </a>
 </h1>
 
 <h2 align="center">
